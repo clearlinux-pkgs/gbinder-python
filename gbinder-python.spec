@@ -7,7 +7,7 @@
 #
 Name     : gbinder-python
 Version  : 1.1.2
-Release  : 1
+Release  : 2
 URL      : https://github.com/erfanoabdi/gbinder-python/archive/refs/tags/1.1.2.tar.gz
 Source0  : https://github.com/erfanoabdi/gbinder-python/archive/refs/tags/1.1.2.tar.gz
 Summary  : No detailed summary available
